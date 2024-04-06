@@ -74,8 +74,7 @@ else:
  
 
 # Output : 
-![prob output 2](https://github.com/roshinithangachamy/Poisson_distribution/assets/147118341/56df0e13-1dc1-4957-817e-a5887b90a1da)
-
+![prob output 2](https://github.com/roshinithangachamy/Poisson_distribution/assets/147118341/5ba62766-344d-4b15-b3bf-f8d53dba108f)
 
 
 # Results
